@@ -1,0 +1,8 @@
+﻿  mainTarea05.cpp
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jepf_\documents\visual studio 2017\projects\teoriacompgraf-jepf\tareastcg_jepf\maintarea05.cpp(152): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  tareasTCG_JEPF.vcxproj -> C:\Users\jepf_\Documents\Visual Studio 2017\Projects\teoriaCompGraf-JEPF\Debug\tareasTCG_JEPF.exe
